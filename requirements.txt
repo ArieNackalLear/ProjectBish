@@ -41,7 +41,7 @@ telethon-session-sqlalchemy
 urbandict
 wikipedia
 coffeehouse
-Covid
+covid
 telegraph
 python-dateutil
 git+https://github.com/johnwmillr/LyricsGenius.git
