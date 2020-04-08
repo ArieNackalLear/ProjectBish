@@ -45,7 +45,6 @@ wikipedia
 coffeehouse
 covid
 deepfry
-sangmata
 figlet
 stickerchat
 invite
