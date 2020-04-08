@@ -45,6 +45,11 @@ wikipedia
 coffeehouse
 covid
 deepfry
+chatinfo
+sangmata
+figlet
+stickerchat
+invite
 telegraph
 python-dateutil
 git+https://github.com/johnwmillr/LyricsGenius.git
