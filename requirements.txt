@@ -42,7 +42,6 @@ urbandict
 wikipedia
 coffeehouse
 covid
-deepfry
 figlet
 stickerchat
 invite
