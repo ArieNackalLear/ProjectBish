@@ -7,7 +7,6 @@ cowpy
 cffi
 dnspython
 emoji
-sangmata
 gitpython
 google-api-python-client
 google-auth-httplib2
@@ -47,6 +46,7 @@ deepfry
 figlet
 stickerchat
 invite
+sangmata
 telegraph
 python-dateutil
 git+https://github.com/johnwmillr/LyricsGenius.git
