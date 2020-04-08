@@ -7,7 +7,6 @@ cowpy
 cffi
 dnspython
 emoji
-chatinfo
 sangmata
 gitpython
 google-api-python-client
