@@ -42,10 +42,6 @@ urbandict
 wikipedia
 coffeehouse
 covid
-figlet
-stickerchat
-invite
-sangmata
 telegraph
 python-dateutil
 git+https://github.com/johnwmillr/LyricsGenius.git
